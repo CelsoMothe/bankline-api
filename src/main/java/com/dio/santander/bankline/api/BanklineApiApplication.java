@@ -8,6 +8,7 @@ public class BanklineApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BanklineApiApplication.class, args);
+		//Iremos começar a codar o nosso projeto.
 	}
 
 }
